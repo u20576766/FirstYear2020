@@ -1,0 +1,70 @@
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.exe.config
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.exe
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.pdb
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csprojAssemblyReference.cache
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmCover.resources
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.Properties.Resources.resources
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.GenerateResource.cache
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.exe
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.pdb
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmNewGame.resources
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmPlayerDetails.resources
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmGame.resources
+C:\Users\malun\source\repos\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.CoreCompileInputs.cache
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.exe.config
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.exe
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.pdb
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csprojAssemblyReference.cache
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmCover.resources
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmGame.resources
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmNewGame.resources
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmPlayerDetails.resources
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.Properties.Resources.resources
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.GenerateResource.cache
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.CoreCompileInputs.cache
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.exe
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.pdb
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\bin\Debug\Interop.WMPLib.dll
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Interop.WMPLib.dll
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.ResolveComReference.cache
+C:\Users\malun\OneDrive\Desktop\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmGameOver.resources
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.exe.config
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.exe
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.pdb
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\bin\Debug\Interop.WMPLib.dll
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csprojAssemblyReference.cache
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Interop.WMPLib.dll
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.ResolveComReference.cache
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmCover.resources
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmGame.resources
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmNewGame.resources
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmPlayerDetails.resources
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmGameOver.resources
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.Properties.Resources.resources
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.GenerateResource.cache
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.CoreCompileInputs.cache
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.exe
+C:\Users\malun\source\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.pdb
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.exe.config
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.exe
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\bin\Debug\Spell-A-Man.pdb
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\bin\Debug\Interop.WMPLib.dll
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csprojAssemblyReference.cache
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Interop.WMPLib.dll
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.ResolveComReference.cache
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmCover.resources
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmGame.resources
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmNewGame.resources
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmPlayerDetails.resources
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.frmGameOver.resources
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell_A_Man.Properties.Resources.resources
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.GenerateResource.cache
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.csproj.CoreCompileInputs.cache
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.exe
+C:\Users\malun\Documents\Year One\2020\INF154\Group Assignment\Spell-A-Man\Spell-A-Man\obj\Debug\Spell-A-Man.pdb
